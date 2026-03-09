@@ -4,8 +4,7 @@
 // @version      1.0.1
 // @description  Replaces the Tweakers Pricewatch button with a link to Knibble
 // @author       Anonymoussaurus/AnonymousWP
-// @match        *://tweakers.net/*
-// @match        *://www.tweakers.net/*
+// @match        https://*.tweakers.net/*
 // @license      GPL-3.0
 // ==/UserScript==
 
