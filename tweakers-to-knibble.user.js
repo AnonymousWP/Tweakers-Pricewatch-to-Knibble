@@ -1,12 +1,13 @@
 // ==UserScript==
-// @author       Anonymoussaurus/AnonymousWP
 // @name         Tweakers Pricewatch to Knibble
+// @author       Anonymoussaurus/AnonymousWP
 // @namespace    https://github.com/AnonymousWP/Tweakers-Pricewatch-to-Knibble/
+// @homepageURL  https://github.com/AnonymousWP/Tweakers-Pricewatch-to-Knibble
 // @updateURL    https://raw.githubusercontent.com/AnonymousWP/tweakers-to-knibble/main/tweakers-to-knibble.user.js
 // @downloadURL  https://raw.githubusercontent.com/AnonymousWP/tweakers-to-knibble/main/tweakers-to-knibble.user.js
 // @supportURL   https://github.com/AnonymousWP/Tweakers-Pricewatch-to-Knibble/issues
 // @version      1.0.4
-// @description  Replaces the Tweakers Pricewatch button with a link to Knibble. This script modifies the existing Pricewatch button to redirect users to Knibble instead, without adding new buttons or elements to the page. It ensures that the original button's functionality is overridden.
+// @description  Replaces the Tweakers Pricewatch button with a link to Knibble instead, without adding new buttons or elements to the page.
 // @match        https://*.tweakers.net/*
 // @license      GPL-3.0
 // ==/UserScript==
